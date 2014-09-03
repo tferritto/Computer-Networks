@@ -1,0 +1,8 @@
+root@bt:~/workspace/multithreaded-file-server/Client# ./client 127.0.0.1 3001 server.c
+Read 4198171 bytes in buffer
+Read 4198171 bytes in buffer
+Read 4198171 bytes in buffer
+Read 4198171 bytes in buffer
+Read 4198171 bytes in buffer
+Read 4198171 bytes in buffer
+Total Bytes Read = 3725
